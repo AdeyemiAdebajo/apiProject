@@ -1,7 +1,7 @@
- Start MongoDB Server
-Create Database & Collection
-Create Database & Collection with npm install
-Create .env File
-Start the Server
-Start replicaSet 
-Use Postman / Swagger for Testing API testing
+Start MongoDB Server<br/>
+Create Database & Collection<br/>
+Create Database & Collection with npm install<br/>
+Create .env File<br/>
+Start the Server<br/>
+Start replicaSet <br/>
+Use Postman / Swagger for Testing API testing<br/>
